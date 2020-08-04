@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
- <h2 style="color:#218F76; font-family: 'Chilanka', cursive;">I am Pavan</h2>
+ <h2>I am Pavan</h2>
 </div>
 
 - 🌱 I’m currently learning MERN Stack Development
