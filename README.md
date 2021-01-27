@@ -6,7 +6,7 @@
  <h2>I am Pavan</h2>
 </div>
 
-- 🌱 I’m currently learning MERN Stack Development
+- 🌱 I’m currently learning web application development using MERN Stack Development
 - 👯 I’m looking to collaborate on MERN or ReactNative Project
 
 <div align="center">
