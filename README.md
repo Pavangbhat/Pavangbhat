@@ -6,8 +6,8 @@
  <h2>I am Pavan</h2>
 </div>
 
-- 🌱 I’m currently learning full stack web development
-- 👯 I’m looking to collaborate on web projects
+
+
 
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pavangbhat&&show_icons=true&theme=tokyonight">
